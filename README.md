@@ -88,7 +88,7 @@ Curated list of self-hosted, open-source ticket tracking systems, shared inboxes
 
 ---
 
-## ⭐ Star History
+##  Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Support-Ticket-Tracking-Routing&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Support-Ticket-Tracking-Routing&type=date&legend=top-left)
 
@@ -101,7 +101,7 @@ Thank you for exploring this curated repository! If you find this resource valua
 - ⭐ **Starring** the repository to support visibility.
 - 🍴 **Forking** it to customize your team's internal evaluations.
 - 📢 **Sharing** with support directors, IT administrators, and developer communities.
-- ☕ **Sponsoring**: [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%99%A5-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/ishandutta2007)
+- ☕ **Buying a coffee / Sponsoring**: [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%99%A5-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/ishandutta2007) — support further development on the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
